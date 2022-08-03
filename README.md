@@ -10,6 +10,6 @@
                       ▀▀▀▀                    ▀▀                                                         
 ```
 
-## A code dumping ground for playing with Goland code and concepts!
+## A code dumping ground for playing with Golang code and concepts!
 
 You're safe to leave - there's nothing interesting in here.
