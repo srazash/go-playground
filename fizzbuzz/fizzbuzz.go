@@ -3,10 +3,7 @@ package main
 import "fmt"
 
 func main() {
-
-	var count int = 1
-
-	for count <= 100 {
+	for count := 1; count <= 100; count++ {
 		switch {
 		case count%15 == 0:
 			fmt.Println(count, " FizzBuzz!")
@@ -17,7 +14,5 @@ func main() {
 		default:
 			fmt.Println(count)
 		}
-		count++
 	}
-
 }
