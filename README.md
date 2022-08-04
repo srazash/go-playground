@@ -14,4 +14,4 @@
 
 You're safe to leave - there's nothing interesting in here.
 
-Execute src files with 'go run .\\<srcdir>\\<srcfile>.go' to avoid producing an executable, there's no .gitignore!
+Execute src files with 'go run .\srcdir\srcfile.go' to avoid producing an executable, there's no .gitignore!
