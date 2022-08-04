@@ -11,7 +11,7 @@ func main() {
 	fmt.Println("Variables before swap:")
 	fmt.Println(a, b)
 
-	// swap variabled without using a third variable
+	// swap variables without using a third variable
 	a = a + b
 	b = a - b
 	a = a - b
