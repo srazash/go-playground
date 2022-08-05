@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	for count := 1; count <= 100; count++ {
+	for count := 1; count <= 1000; count++ {
 		switch {
 		//this case could also be count%15 == 0, but spliting this is more idiomatic
 		case count%5 == 0 && count%3 == 0:
